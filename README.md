@@ -13,7 +13,7 @@ This project implements a strategic deconfliction system for drones operating in
 ## How to Run
 ```bash
 python main.py
-
+```
 ## Output
 
 - close 2D spacial view to access 4D view
